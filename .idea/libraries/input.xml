@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="input">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/3-unzip.task/input/contacts-2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-unzip.task/input/contacts-1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/3-unzip.task/input/contacts-0.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

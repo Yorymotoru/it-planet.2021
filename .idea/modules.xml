@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-calculator.task/1-calculator.task.iml" filepath="$PROJECT_DIR$/1-calculator.task/1-calculator.task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-unzip.task/3-unzip.task.iml" filepath="$PROJECT_DIR$/3-unzip.task/3-unzip.task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-maze.task/4-maze.task.iml" filepath="$PROJECT_DIR$/4-maze.task/4-maze.task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/it-planet.2021.iml" filepath="$PROJECT_DIR$/.idea/it-planet.2021.iml" />
+    </modules>
+  </component>
+</project>
